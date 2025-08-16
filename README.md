@@ -190,4 +190,3 @@ Experiments are run with the simulator in `Phase 2 Implementation/CS_proj_P2_Bey
 
 ---
 
-If you want, I can also add a tiny `requirements.txt` (`numpy`, `matplotlib`) and a preview image of one of the plots in the README.
